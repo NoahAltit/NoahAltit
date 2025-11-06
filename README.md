@@ -1,4 +1,6 @@
-<h1 align="center">Full Stack Developer</h1>
+<h1 align="center">Full Stack Software Developer</h1>
+<h4 align="center">Currently working as a Software Engineer in New York, NY 🗽</h4>
+
 
 ### Reach me 📧 
 <b>naltit461@gmail.com</b>
