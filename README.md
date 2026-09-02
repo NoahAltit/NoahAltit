@@ -1,9 +1,11 @@
 <h1 align="center">Full Stack Software Developer</h1>
-<h4 align="center">Currently working as a Software Engineer in New York, NY 🗽</h4>
+<h4 align="center">Currently working as a CTO in Montreal, Quebec, Canada 🍁</h4>
 
 
 ### Reach me 📧 
-<b>naltit461@gmail.com</b>
+Business Emails
+<b>noah@creativesocietystudios.com</b>
+<b>noah@zero2file.com</b>
 
 <a href="https://www.linkedin.com/in/noah-altit/"><b>LinkedIn</b></a>
 
